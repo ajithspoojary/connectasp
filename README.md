@@ -1,6 +1,6 @@
 ![MasterHead](https://storage.googleapis.com/gweb-cloudblog-publish/original_images/DataAnalytics.gif)
 <h1 align="center">Hi 👋, I'm Ajith Poojary</h1>
-<h4 align="left">
+
 <p align="left">
 Welcome to my GitHub profile! I'm a data science enthusiast with a background in businesss operation and data analytics.
 </p>
@@ -13,7 +13,7 @@ My primary interests lie in data science, such as data visualization, data analy
 <p align="left">
 On this profile, you'll find some of my personal projects related to data science, I'm also always open to collaborating with other data science enthusiasts, so please feel free to reach out to me if you're interested in working together.
 </p>
-</h4>
+
 
 <img align = "right" alt="Coding" width = "400" src = "https://chools.in/wp-content/uploads/data-science-2-1.gif">
 
