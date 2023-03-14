@@ -17,7 +17,7 @@ On this profile, you'll find some of my personal projects related to data scienc
 
 <img align = "right" alt="Coding" width = "400" src = "https://chools.in/wp-content/uploads/data-science-2-1.gif">
 
-- :man_student: I have done by
+- :man_student: I have done my
 	 <p align="left">
 	 <h4 align="left">
 	  Masters of Technology (MTech) in Software Engineering
