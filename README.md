@@ -37,7 +37,7 @@ On this profile, you'll find some of my personal projects related to data scienc
      </p>
      </h4>
 
-- :dart: I’m currently working on **Advance Data Science Concepts**
+- :dart: I’m currently working on **Advance Data Science Projects**
 
 - 🌱 I’m currently learning **Machine Learning and AWS**
 
