@@ -1,5 +1,5 @@
 ![MasterHead](https://storage.googleapis.com/gweb-cloudblog-publish/original_images/DataAnalytics.gif)
-<h1 align="center">Hi 👋, I'm Ajith Poojary</h1>
+<h1 align="center">Hi :raising_hand: I'm Ajith Poojary</h1>
 
 <p align="left">
 Welcome to my GitHub profile! I'm a data science enthusiast with a background in businesss operation and data analytics.
@@ -17,7 +17,7 @@ On this profile, you'll find some of my personal projects related to data scienc
 
 <img align = "right" alt="Coding" width = "400" src = "https://chools.in/wp-content/uploads/data-science-2-1.gif">
 
-- 📄 I have done by
+- :man_student: I have done by
 	 <p align="left">
 	 <h4 align="left">
 	  Masters of Technology (MTech) in Software Engineering
@@ -27,7 +27,7 @@ On this profile, you'll find some of my personal projects related to data scienc
      </p>
      </h4>
 
-- 📝 I have completed my Certification in
+- :medal_military: I have completed my Certification in
   	 <p align="left">
 	 <h4 align="left">
 	  Google Data Analytics Professional Certificate - GOOGLE CERTIFIED
@@ -37,7 +37,7 @@ On this profile, you'll find some of my personal projects related to data scienc
      </p>
      </h4>
 
-- 🔭 I’m currently working on **Advance Data Science Concepts**
+- :dart: I’m currently working on **Advance Data Science Concepts**
 
 - 🌱 I’m currently learning **Machine Learning and AWS**
 
