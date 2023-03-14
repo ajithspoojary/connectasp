@@ -1,16 +1,19 @@
 ![MasterHead](https://storage.googleapis.com/gweb-cloudblog-publish/original_images/DataAnalytics.gif)
 <h1 align="center">Hi 👋, I'm Ajith Poojary</h1>
-<h5 align="left">
+<h4 align="left">
 <p align="left">
 Welcome to my GitHub profile! I'm a data science enthusiast with a background in businesss operation and data analytics.
 </p>
 <p align="left">
-I believe that data science has the power to transform the world we live in, and I'm committed to using my skills to contribute to this transformation. My primary interests lie in data science, such as data visualization, data analysis, statistical modeling, machine learning and I'm always eager to learn and explore new tools and techniques.
+I believe that data science has the power to transform the world we live in, and I'm committed to using my skills to contribute to this transformation. 
+</p>
+<p align="left">
+My primary interests lie in data science, such as data visualization, data analysis, statistical modeling, machine learning and I'm always eager to learn and explore new tools and techniques.
 </p>
 <p align="left">
 On this profile, you'll find some of my personal projects related to data science, I'm also always open to collaborating with other data science enthusiasts, so please feel free to reach out to me if you're interested in working together.
 </p>
-</h5>
+</h4>
 
 <img align = "right" alt="Coding" width = "400" src = "https://chools.in/wp-content/uploads/data-science-2-1.gif">
 
@@ -57,8 +60,8 @@ On this profile, you'll find some of my personal projects related to data scienc
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=connectasp&" alt="connectasp" /></p>
 
-<h5 align="left">
+<h4 align="left">
 <p align="left">
 Thank you for stopping by, and I hope you find something useful or inspiring on my profile!
 </p>
-</h5>
+</h4>
