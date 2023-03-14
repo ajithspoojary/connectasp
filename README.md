@@ -27,7 +27,7 @@ On this profile, you'll find some of my personal projects related to data scienc
      </p>
      </h4>
 
-- 📝 I Have completed my Certification in
+- 📝 I have completed my Certification in
   	 <p align="left">
 	 <h4 align="left">
 	  Google Data Analytics Professional Certificate - GOOGLE CERTIFIED
