@@ -23,7 +23,7 @@ On this profile, you'll find some of my personal projects related to data scienc
 	  Masters of Technology (M.Tech) in Software Engineering
 	 </p>
 	 <p align="left">
-      Bachelors of Engineering (B.E) in Information Science
+      Bachelors of Engineering (B.E) in Information Science & Engineering
      </p>
      </h4>
 
